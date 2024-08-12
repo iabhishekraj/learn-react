@@ -1,0 +1,15 @@
+commands:
+    npm create vite@latest
+
+
+Topics:
+    Create a component
+    Fragments
+    Conditional Rendering
+    Handling Events
+    Managing State
+    Passing Data via props
+    Passing Functions via props
+    State Vs Props
+    Passing Children
+    
